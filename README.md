@@ -20,8 +20,13 @@
   <a href="mailto:nizmikhail@gmail.com">
     <img src="https://img.shields.io/badge/gmail|nizmikhail-white?style=for-the-badge&logo=gmail" alt="gmail"/>
   </a>
+  
 </div>
-
+<div id="badges" align="center">
+  <a href="https://junkytrace.github.io/">
+    <img src="https://cdn0.iconfinder.com/data/icons/font-awesome-solid-vol-2/576/dog-512.png" alt="pet" width="40" height="40"/>
+  </a>
+  </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=junkytrace&style=flat-square&color=blue" alt=""/>
 </div>
