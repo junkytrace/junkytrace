@@ -11,9 +11,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nizmb/">
-    <img src="https://img.shields.io/badge/|nizmb-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://t.me/nizmb">
     <img src="https://img.shields.io/badge/tlg|nizmb-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge"/>
   </a>
@@ -22,6 +19,9 @@
   </a>
   <a href="https://www.instagram.com/nizmby/">
    <img src="https://img.shields.io/badge/|nizmby-orange?style=for-the-badge&logo=instagram" alt="inst"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nizmb/">
+    <img src="https://img.shields.io/badge/|nizmb-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
