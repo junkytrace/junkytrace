@@ -20,6 +20,9 @@
   <a href="mailto:nizmikhail@gmail.com">
     <img src="https://img.shields.io/badge/gmail|nizmikhail-white?style=for-the-badge&logo=gmail" alt="gmail"/>
   </a>
+  <a href="https://www.instagram.com/nizmby/">
+   <img src="https://img.shields.io/badge/|nizmikhail-orange?style=for-the-badge&logo=instagram" alt="inst"/>
+  </a>
   
 </div>
 <div id="badges" align="center">
