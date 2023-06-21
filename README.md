@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" **alt="jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/junkytrace/pics/blob/main/icon%20(1).svg" title="MySql" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -66,9 +66,9 @@
   <img src="https://raw.githubusercontent.com/Ahuge/chocolatey-packages/ebe8301978bfc9a88e27a6360c4cddb465136fe6/3dsmax/icon.png" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain-wordmark.svg" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLub" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/junkytrace/pics/blob/main/Github.svg" title="GitHub" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/junkytrace/pics/blob/main/icon.svg" title="GitLub" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
