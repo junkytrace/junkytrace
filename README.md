@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972284&width=300&lines=Frontend+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=25&pause=1000&color=972284&width=300&lines=Frontend+developer" alt="Typing SVG" /></a>
 </div>
 
 <div id="header" align="center">
@@ -35,7 +35,7 @@
 </div>
 
 ### :unicorn: About me:
-#### <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="25"/> I'm a full-stack developer @ CraftTech
+#### <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="25"/> I'm a SWE @ CraftTech
 
 
 ---
