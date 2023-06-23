@@ -42,33 +42,55 @@
 
 ### :rocket: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" height="40" width="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass/scss" height="40" width="40"/>&nbsp;
+  </div>
+  <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" height="40" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="Typescript" height="40" width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node.js" height="40" width="40">&nbsp;
+    </div>
+    <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="40" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" **alt="jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/junkytrace/pics/blob/main/icon%20(1).svg" title="MySql" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" height="40" width="40"/>&nbsp;
+      </div>
+      <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/junkytrace/pics/blob/main/icon%20(5).svg" title="Cypress" **alt="Cypress" width="100" height="40"/>&nbsp;
+        </div>
+        <div>
+  <img src="https://github.com/junkytrace/pics/blob/main/icon%20(1).svg" title="MySql" **alt="MySql" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/junkytrace/pics/blob/main/icon%20(3).svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/junkytrace/pics/blob/main/icon%20(2).svg" title="EsLint" **alt="EsLint" width="40" height="40"/>&nbsp;
+          <img src="https://prettier.io/icon.png" title="Prettier" **alt="Prettier" width="40" height="40"/>&nbsp;
 </div>
 
 ---
   
 ### :hammer: Instruments:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" width="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/Ahuge/chocolatey-packages/ebe8301978bfc9a88e27a6360c4cddb465136fe6/3dsmax/icon.png" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain-wordmark.svg" height="40" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCodium" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="GULP" **alt="GULP" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="PhotoShop" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" height="40" width="40">&nbsp;
+    </div>
+    <div>
+  <img src="https://raw.githubusercontent.com/Ahuge/chocolatey-packages/ebe8301978bfc9a88e27a6360c4cddb465136fe6/3dsmax/icon.png" title="3ds max" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain-wordmark.svg" title="Maya" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" height="40" width="40">&nbsp;
+      </div>
+      <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/junkytrace/pics/blob/main/Github.svg" title="GitHub" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/junkytrace/pics/blob/main/icon.svg" title="GitLub" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/junkytrace/pics/blob/main/Github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/junkytrace/pics/blob/main/icon.svg" title="GitLub" **alt="GitLub" width="40" height="40"/>&nbsp;
 </div>
 
 ---
